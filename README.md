@@ -1,6 +1,6 @@
 # cs4990app
 
-AudioSinc - Audio Latency Adjuster
+AudioSinc Mobile Application - Audio Latency Adjuster
 
 https://play.google.com/store/apps/details?id=com.bahbahdoh.cs4990app
 
