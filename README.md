@@ -1,5 +1,5 @@
-# cs4990app
+# AudioSinc Mobile App
 
-AudioSinc Mobile Application - Audio Latency Adjuster
+Audio latency adjuster mobile application created using Flutter SDK
 
 https://play.google.com/store/apps/details?id=com.bahbahdoh.cs4990app
